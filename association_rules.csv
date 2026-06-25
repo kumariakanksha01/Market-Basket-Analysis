@@ -1,0 +1,81 @@
+antecedents,consequents,antecedent support,consequent support,support,confidence,lift,transaction_count
+60 Teatime Fairy Cake Cases,Pack Of 72 Retrospot Cake Cases,4%,7%,2%,54%,8,430
+Alarm Clock Bakelike Pink,Alarm Clock Bakelike Green,4%,5%,2%,54%,10,410
+Alarm Clock Bakelike Red,Alarm Clock Bakelike Green,6%,5%,4%,62%,11,633
+Alarm Clock Bakelike Green,Alarm Clock Bakelike Red,5%,6%,4%,66%,11,633
+Alarm Clock Bakelike Ivory,Alarm Clock Bakelike Red,3%,6%,2%,66%,11,368
+Alarm Clock Bakelike Pink,Alarm Clock Bakelike Red,4%,6%,3%,60%,10,454
+Charlotte Bag Pink Polkadot,Charlotte Bag Suki Design,4%,5%,2%,55%,11,408
+Red Retrospot Charlotte Bag,Charlotte Bag Pink Polkadot,6%,4%,3%,51%,12,520
+Charlotte Bag Pink Polkadot,Red Retrospot Charlotte Bag,4%,6%,3%,70%,12,520
+Strawberry Charlotte Bag,Charlotte Bag Pink Polkadot,4%,4%,2%,53%,13,377
+Charlotte Bag Pink Polkadot,Strawberry Charlotte Bag,4%,4%,2%,51%,13,377
+Charlotte Bag Pink Polkadot,Woodland Charlotte Bag,4%,5%,2%,53%,11,392
+Charlotte Bag Suki Design,Red Retrospot Charlotte Bag,5%,6%,3%,58%,10,505
+Strawberry Charlotte Bag,Charlotte Bag Suki Design,4%,5%,2%,58%,12,412
+Woodland Charlotte Bag,Charlotte Bag Suki Design,5%,5%,3%,55%,11,452
+Charlotte Bag Suki Design,Woodland Charlotte Bag,5%,5%,3%,52%,11,452
+Hot Water Bottle I Am So Poorly,Chocolate Hot Water Bottle,4%,5%,2%,60%,13,382
+Dolly Girl Lunch Box,Spaceboy Lunch Box,5%,5%,3%,63%,13,524
+Spaceboy Lunch Box,Dolly Girl Lunch Box,5%,5%,3%,59%,13,524
+Gardeners Kneeling Pad Cup Of Tea,Gardeners Kneeling Pad Keep Calm,4%,5%,3%,72%,14,543
+Gardeners Kneeling Pad Keep Calm,Gardeners Kneeling Pad Cup Of Tea,5%,4%,3%,60%,14,543
+Pink Regency Teacup And Saucer,Green Regency Teacup And Saucer,4%,5%,3%,83%,15,604
+Green Regency Teacup And Saucer,Pink Regency Teacup And Saucer,5%,4%,3%,62%,15,604
+Green Regency Teacup And Saucer,Roses Regency Teacup And Saucer,5%,6%,4%,75%,13,730
+Roses Regency Teacup And Saucer,Green Regency Teacup And Saucer,6%,5%,4%,72%,13,730
+Heart Of Wicker Large,Heart Of Wicker Small,5%,7%,3%,53%,8,481
+Jumbo  Bag Baroque Black White,Jumbo Bag Red Retrospot,5%,11%,3%,63%,5,579
+Jumbo Bag Pears,Jumbo Bag Apples,3%,5%,2%,69%,13,401
+Jumbo Bag Apples,Jumbo Bag Red Retrospot,5%,11%,3%,56%,5,541
+Jumbo Bag Owls,Jumbo Bag Red Retrospot,4%,11%,2%,61%,5,388
+Jumbo Bag Pink Polkadot,Jumbo Bag Red Retrospot,7%,11%,5%,68%,6,817
+Jumbo Bag Woodland Animals,Jumbo Bag Pink Polkadot,5%,7%,2%,50%,7,427
+Jumbo Bag Pink Vintage Paisley,Jumbo Bag Red Retrospot,5%,11%,3%,60%,5,511
+Jumbo Bag Scandinavian Blue Paisley,Jumbo Bag Red Retrospot,4%,11%,2%,67%,6,441
+Jumbo Bag Spaceboy Design,Jumbo Bag Red Retrospot,4%,11%,2%,62%,5,425
+Jumbo Bag Strawberry,Jumbo Bag Red Retrospot,5%,11%,3%,65%,6,527
+Jumbo Bag Woodland Animals,Jumbo Bag Red Retrospot,5%,11%,3%,62%,5,533
+Jumbo Shopper Vintage Red Paisley,Jumbo Bag Red Retrospot,7%,11%,4%,58%,5,676
+Jumbo Storage Bag Skulls,Jumbo Bag Red Retrospot,4%,11%,2%,59%,5,413
+Jumbo Storage Bag Suki,Jumbo Bag Red Retrospot,7%,11%,4%,61%,5,721
+Recycling Bag Retrospot,Jumbo Bag Red Retrospot,4%,11%,2%,56%,5,413
+Jumbo Bag Woodland Animals,Jumbo Storage Bag Suki,5%,7%,3%,53%,8,448
+Jumbo Storage Bag Skulls,Jumbo Storage Bag Suki,4%,7%,2%,52%,8,367
+Lunch Bag  Black Skull.,Lunch Bag Red Retrospot,7%,9%,4%,50%,6,632
+Lunch Bag Alphabet Design,Lunch Bag Apple Design,4%,6%,2%,51%,9,366
+Lunch Bag Vintage Leaf Design,Lunch Bag Apple Design,4%,6%,2%,54%,10,358
+Lunch Bag Dolly Girl Design,Lunch Bag Spaceboy Design,4%,6%,2%,57%,9,383
+Lunch Bag Pink Polkadot,Lunch Bag Red Retrospot,6%,9%,3%,55%,6,593
+Lunch Bag Suki Design,Lunch Bag Red Retrospot,6%,9%,3%,51%,6,554
+Lunch Bag Woodland,Lunch Bag Red Retrospot,6%,9%,3%,52%,6,520
+Pack Of 72 Skull Cake Cases,Pack Of 72 Retrospot Cake Cases,4%,7%,2%,56%,8,363
+Paper Chain Kit Vintage Christmas,Paper Chain Kit 50'S Christmas,5%,6%,3%,67%,11,544
+Pink Regency Teacup And Saucer,Regency Cakestand 3 Tier,4%,11%,2%,51%,5,370
+Pink Regency Teacup And Saucer,Roses Regency Teacup And Saucer,4%,6%,3%,78%,14,569
+Roses Regency Teacup And Saucer,Pink Regency Teacup And Saucer,6%,4%,3%,56%,14,569
+Red Hanging Heart T-Light Holder,White Hanging Heart T-Light Holder,4%,12%,3%,66%,5,476
+Strawberry Charlotte Bag,Red Retrospot Charlotte Bag,4%,6%,3%,67%,12,482
+Woodland Charlotte Bag,Red Retrospot Charlotte Bag,5%,6%,3%,61%,11,503
+Set/6 Red Spotty Paper Plates,Set/20 Red Retrospot Paper Napkins,3%,5%,2%,70%,13,361
+Strawberry Charlotte Bag,Woodland Charlotte Bag,4%,5%,2%,56%,12,404
+Wooden Frame Antique White,Wooden Picture Frame White Finish,5%,6%,3%,56%,9,536
+Wooden Heart Christmas Scandinavian,Wooden Star Christmas Scandinavian,3%,3%,2%,72%,26,378
+Wooden Star Christmas Scandinavian,Wooden Heart Christmas Scandinavian,3%,3%,2%,77%,26,378
+"Pink Regency Teacup And Saucer, Green Regency Teacup And Saucer",Roses Regency Teacup And Saucer,3%,6%,3%,85%,15,514
+"Pink Regency Teacup And Saucer, Roses Regency Teacup And Saucer",Green Regency Teacup And Saucer,3%,5%,3%,90%,17,514
+"Roses Regency Teacup And Saucer, Green Regency Teacup And Saucer",Pink Regency Teacup And Saucer,4%,4%,3%,70%,17,514
+Pink Regency Teacup And Saucer,"Roses Regency Teacup And Saucer, Green Regency Teacup And Saucer",4%,4%,3%,70%,17,514
+Green Regency Teacup And Saucer,"Pink Regency Teacup And Saucer, Roses Regency Teacup And Saucer",5%,3%,3%,53%,17,514
+Roses Regency Teacup And Saucer,"Pink Regency Teacup And Saucer, Green Regency Teacup And Saucer",6%,3%,3%,51%,15,514
+"Regency Cakestand 3 Tier, Green Regency Teacup And Saucer",Roses Regency Teacup And Saucer,3%,6%,2%,79%,14,379
+"Roses Regency Teacup And Saucer, Green Regency Teacup And Saucer",Regency Cakestand 3 Tier,4%,11%,2%,52%,5,379
+"Regency Cakestand 3 Tier, Roses Regency Teacup And Saucer",Green Regency Teacup And Saucer,3%,5%,2%,78%,14,379
+"Jumbo Bag Pink Polkadot, Jumbo Shopper Vintage Red Paisley",Jumbo Bag Red Retrospot,3%,11%,2%,81%,7,377
+"Jumbo Shopper Vintage Red Paisley, Jumbo Bag Red Retrospot",Jumbo Bag Pink Polkadot,4%,7%,2%,56%,8,377
+"Jumbo Bag Pink Polkadot, Jumbo Storage Bag Suki",Jumbo Bag Red Retrospot,3%,11%,2%,80%,7,412
+"Jumbo Bag Pink Polkadot, Jumbo Bag Red Retrospot",Jumbo Storage Bag Suki,5%,7%,2%,50%,8,412
+"Jumbo Storage Bag Suki, Jumbo Bag Red Retrospot",Jumbo Bag Pink Polkadot,4%,7%,2%,57%,8,412
+"Jumbo Shopper Vintage Red Paisley, Jumbo Storage Bag Suki",Jumbo Bag Red Retrospot,3%,11%,2%,75%,7,388
+"Jumbo Shopper Vintage Red Paisley, Jumbo Bag Red Retrospot",Jumbo Storage Bag Suki,4%,7%,2%,57%,9,388
+"Jumbo Storage Bag Suki, Jumbo Bag Red Retrospot",Jumbo Shopper Vintage Red Paisley,4%,7%,2%,54%,8,388
